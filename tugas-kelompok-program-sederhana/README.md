@@ -34,8 +34,8 @@
 3. Bentuk tugas
     - [x] Cover
     - [x] informasi bahasa pemrograman yang digunakan
-    - [] Print out Listing Program
+    - [x] Print out Listing Program
     - [x] Logika Program
-    - [] Print out listing program utk kesalahan Leksikal, Sintaks dan Semantiks (pada saat di compile)
+    - [x] Print out listing program utk kesalahan Leksikal, Sintaks dan Semantiks (pada saat di compile)
     - [x] Print out program sederhana dr bahasa pemrograman tersebut
 4. Tugas di kirim ke email <edys.24libra@gmail.com>
